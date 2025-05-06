@@ -1,4 +1,4 @@
-*** Download CEAS_08.csv datasets from https://www.kaggle.com/ for AI Training
+*📌*📌* Download CEAS_08.csv datasets from https://www.kaggle.com/ for AI Training
 
 # 📧 Gmail Phishing Detector (AI + Rule-Based)
 
