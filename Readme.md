@@ -86,7 +86,7 @@ This will:
 Once everything is set up, launch the email detection app:
 
 ```bash
-python phishing_detector_gui.py
+python Main.py
 ```
 
 You can now browse and analyze emails interactively!
@@ -97,8 +97,8 @@ You can now browse and analyze emails interactively!
 
 ```
 📁 phishing-detector/
-├── phishing_detector_gui.py   # Main GUI application
-├── train_model.py             # Model training script
+├── Main.py   # Main GUI application
+├── AI Training.py             # Model training script
 ├── phishing_model.pkl         # Trained ML model
 ├── vectorizer.pkl             # TF-IDF vectorizer
 ├── phishing_and_legit_mixed.json  # Sample emails
