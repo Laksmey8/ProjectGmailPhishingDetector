@@ -1,3 +1,5 @@
+*** Download CEAS_08.csv datasets from Kaggle for AI Training
+
 # 📧 Gmail Phishing Detector (AI + Rule-Based)
 
 This project is a **Gmail-inspired phishing email detector** built with **Python**, **Tkinter**, and **Machine Learning (Logistic Regression)**. It combines AI and rule-based detection to simulate an interactive email viewer that helps users identify and manage phishing emails.
