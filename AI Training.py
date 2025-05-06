@@ -10,7 +10,7 @@ import joblib
 
 
 # === STEP 1: Load Dataset (using correct columns) ===
-df = pd.read_csv("/Users/chhoethchanrithlaksmey/Downloads/CEAS_08.csv")
+df = pd.read_csv("CEAS_08.csv")
 df = df[["body", "label"]].dropna()
 df.columns = ["content", "label"]  # Rename for consistency
 
